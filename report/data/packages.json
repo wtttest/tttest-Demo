@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases.webui.webui_cases.test_006",
+    "children" : [ {
+      "name" : "用例标题",
+      "uid" : "a26cfb73186ebc8e",
+      "parentUid" : "f31051f7932e0639801a2192ad49ebe9",
+      "status" : "broken",
+      "time" : {
+        "start" : 1701612520485,
+        "stop" : 1701612520649,
+        "duration" : 164
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testcases.webui.webui_cases.test_006"
+  } ]
+}

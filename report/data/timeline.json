@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "T",
+    "children" : [ {
+      "name" : "21460-MainThread",
+      "children" : [ {
+        "name" : "用例标题",
+        "uid" : "a26cfb73186ebc8e",
+        "parentUid" : "1430a974a615d4a0aaf4fab9caf354ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1701612520485,
+          "stop" : 1701612520649,
+          "duration" : 164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1430a974a615d4a0aaf4fab9caf354ca"
+    } ],
+    "uid" : "cce6595d9ecb56487aeaeb51959e8e58"
+  } ]
+}

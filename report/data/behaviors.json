@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "功能点的描述，相当于class级的标签",
+    "children" : [ {
+      "name" : "场景，相当于method级的标签",
+      "children" : [ {
+        "name" : "用例标题",
+        "uid" : "a26cfb73186ebc8e",
+        "parentUid" : "57428e78bf9d4a6bc5d802e3624f3533",
+        "status" : "broken",
+        "time" : {
+          "start" : 1701612520485,
+          "stop" : 1701612520649,
+          "duration" : 164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57428e78bf9d4a6bc5d802e3624f3533"
+    } ],
+    "uid" : "af967de614b49c88c6cfcbff908fa817"
+  } ]
+}

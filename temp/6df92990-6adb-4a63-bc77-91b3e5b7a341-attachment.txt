@@ -1,0 +1,1 @@
+INFO     airtest.report.report:report.py:371 log\test_006\test_006.log\log.html

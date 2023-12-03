@@ -1,0 +1,50 @@
+config:
+  api:
+    # 接口地址
+    url: http://jsonplaceholder.typicode.com/
+    password: 123
+    userName: admin
+    # token过期时间
+    expire_time: 3600
+    # 失败重试次数
+    failed_retry_times: 10
+    show_log: true
+  app:
+    # 本地存储路径
+    adb_path: 127.0.0.1:5037
+    # 本地存储路径
+    devices: 127.0.0.1:62001
+    username: admin
+    password: admin123
+    pagename: www.jc.house.zkur
+  mysql:
+    # 数据库地址
+    host:
+    # 数据库端口
+    port:
+    # 数据库用户名
+    user:
+    # 数据库密码
+    password:
+    # 数据库名称
+    db:
+  rabbitmq:
+    # rabbitmq地址
+    host:
+    # rabbitmq端口
+    port:
+    # rabbitmq用户名
+    username:
+    # rabbitmq密码
+    password:
+    # rabbitmq虚拟主机
+    virtual_host:
+  webdriver:
+   #驱动地址
+    win_path: C:\Program Files\Google\Chrome\Application\chromedriver.exe
+  webui:
+    # webui地址
+    host: https://tttest.run/
+    username:
+    password:
+

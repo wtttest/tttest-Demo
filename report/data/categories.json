@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "airtest.core.error.NoDeviceError: 'No devices added.'",
+      "children" : [ {
+        "name" : "用例标题",
+        "uid" : "a26cfb73186ebc8e",
+        "parentUid" : "bf6229a2f80f0d3ed03854e23ba0696c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1701612520485,
+          "stop" : 1701612520649,
+          "duration" : 164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bf6229a2f80f0d3ed03854e23ba0696c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

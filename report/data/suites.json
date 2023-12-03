@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcases.webui.webui_cases",
+    "children" : [ {
+      "name" : "test_006",
+      "children" : [ {
+        "name" : "用例标题",
+        "uid" : "a26cfb73186ebc8e",
+        "parentUid" : "cabdc0dc6e4abd9a61b42e6fb7a6b52e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1701612520485,
+          "stop" : 1701612520649,
+          "duration" : 164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cabdc0dc6e4abd9a61b42e6fb7a6b52e"
+    } ],
+    "uid" : "3bcb8a808e18bcb631886bad73964bbf"
+  } ]
+}
