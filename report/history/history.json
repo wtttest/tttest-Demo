@@ -2,20 +2,19 @@
   "1195d53a97e34aa056a337ea60073f46" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a26cfb73186ebc8e",
-      "status" : "broken",
-      "statusDetails" : "airtest.core.error.NoDeviceError: 'No devices added.'",
+      "uid" : "d830bd35ec836aa1",
+      "status" : "passed",
       "time" : {
-        "start" : 1701612520485,
-        "stop" : 1701612520649,
-        "duration" : 164
+        "start" : 1701756432575,
+        "stop" : 1701756442704,
+        "duration" : 10129
       }
     } ]
   }

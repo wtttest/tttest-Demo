@@ -1,11 +1,11 @@
 [ {
-  "uid" : "a26cfb73186ebc8e",
+  "uid" : "d830bd35ec836aa1",
   "name" : "用例标题",
   "time" : {
-    "start" : 1701612520485,
-    "stop" : 1701612520649,
-    "duration" : 164
+    "start" : 1701756432575,
+    "stop" : 1701756442704,
+    "duration" : 10129
   },
-  "status" : "broken",
+  "status" : "passed",
   "severity" : "normal"
 } ]

@@ -1,0 +1,111 @@
+{
+  "uid" : "d830bd35ec836aa1",
+  "name" : "用例标题",
+  "fullName" : "testcases.webui.webui_cases.test_006#test_006",
+  "historyId" : "1195d53a97e34aa056a337ea60073f46",
+  "time" : {
+    "start" : 1701756432575,
+    "stop" : 1701756442704,
+    "duration" : 10129
+  },
+  "description" : "用例描述",
+  "descriptionHtml" : "<p>用例描述</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_web",
+    "time" : {
+      "start" : 1701756418135,
+      "stop" : 1701756432574,
+      "duration" : 14439
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "用例描述",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5248f417e95a655b",
+      "name" : "log",
+      "source" : "5248f417e95a655b.txt",
+      "type" : "text/plain",
+      "size" : 79
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "init_web::0",
+    "time" : {
+      "start" : 1701756442704,
+      "stop" : 1701756444844,
+      "duration" : 2140
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "功能点的描述，相当于class级的标签"
+  }, {
+    "name" : "story",
+    "value" : "场景，相当于method级的标签"
+  }, {
+    "name" : "severity",
+    "value" : "blocker：阻塞缺陷（功能未实现，无法下一步）critical：严重缺陷（功能点缺失）normal：一般缺陷（边界情况，格式错误）minor：次要缺陷（界面错误与ui需求不符）trivial：轻微缺陷（必须项无提示，或者提示不规范）"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases.webui.webui_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_006"
+  }, {
+    "name" : "host",
+    "value" : "T"
+  }, {
+    "name" : "thread",
+    "value" : "11952-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.webui.webui_cases.test_006"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d830bd35ec836aa1.json",
+  "parameterValues" : [ ]
+}

@@ -7,13 +7,13 @@
       "name" : "test_006",
       "children" : [ {
         "name" : "用例标题",
-        "uid" : "a26cfb73186ebc8e",
+        "uid" : "d830bd35ec836aa1",
         "parentUid" : "cabdc0dc6e4abd9a61b42e6fb7a6b52e",
-        "status" : "broken",
+        "status" : "passed",
         "time" : {
-          "start" : 1701612520485,
-          "stop" : 1701612520649,
-          "duration" : 164
+          "start" : 1701756432575,
+          "stop" : 1701756442704,
+          "duration" : 10129
         },
         "flaky" : false,
         "newFailed" : false,

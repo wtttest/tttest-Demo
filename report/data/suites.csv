@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Sun Dec 03 22:08:40 CST 2023","Sun Dec 03 22:08:40 CST 2023","164","testcases.webui.webui_cases","test_006","","","","用例标题","用例描述"
+"passed","Tue Dec 05 14:07:12 CST 2023","Tue Dec 05 14:07:22 CST 2023","10129","testcases.webui.webui_cases","test_006","","","","用例标题","用例描述"
